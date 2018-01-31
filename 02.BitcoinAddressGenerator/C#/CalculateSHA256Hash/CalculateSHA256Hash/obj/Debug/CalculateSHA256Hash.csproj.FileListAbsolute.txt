@@ -1,0 +1,6 @@
+C:\Alex\Softuni-Alex\CalculateSHA256Hash\CalculateSHA256Hash\bin\Debug\CalculateSHA256Hash.exe.config
+C:\Alex\Softuni-Alex\CalculateSHA256Hash\CalculateSHA256Hash\bin\Debug\CalculateSHA256Hash.exe
+C:\Alex\Softuni-Alex\CalculateSHA256Hash\CalculateSHA256Hash\bin\Debug\CalculateSHA256Hash.pdb
+C:\Alex\Softuni-Alex\CalculateSHA256Hash\CalculateSHA256Hash\obj\Debug\CalculateSHA256Hash.csprojResolveAssemblyReference.cache
+C:\Alex\Softuni-Alex\CalculateSHA256Hash\CalculateSHA256Hash\obj\Debug\CalculateSHA256Hash.exe
+C:\Alex\Softuni-Alex\CalculateSHA256Hash\CalculateSHA256Hash\obj\Debug\CalculateSHA256Hash.pdb

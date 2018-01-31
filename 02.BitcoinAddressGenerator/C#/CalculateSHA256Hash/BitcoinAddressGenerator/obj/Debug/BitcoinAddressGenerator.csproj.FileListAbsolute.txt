@@ -1,0 +1,6 @@
+C:\Alex\Softuni-Alex\CalculateSHA256Hash\BitcoinAddressGenerator\bin\Debug\BitcoinAddressGenerator.exe.config
+C:\Alex\Softuni-Alex\CalculateSHA256Hash\BitcoinAddressGenerator\bin\Debug\BitcoinAddressGenerator.exe
+C:\Alex\Softuni-Alex\CalculateSHA256Hash\BitcoinAddressGenerator\bin\Debug\BitcoinAddressGenerator.pdb
+C:\Alex\Softuni-Alex\CalculateSHA256Hash\BitcoinAddressGenerator\obj\Debug\BitcoinAddressGenerator.csprojResolveAssemblyReference.cache
+C:\Alex\Softuni-Alex\CalculateSHA256Hash\BitcoinAddressGenerator\obj\Debug\BitcoinAddressGenerator.exe
+C:\Alex\Softuni-Alex\CalculateSHA256Hash\BitcoinAddressGenerator\obj\Debug\BitcoinAddressGenerator.pdb
