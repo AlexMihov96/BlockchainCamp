@@ -5681,11 +5681,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Alex\\Softuni-Alex\\BlockchainCamp\\03.CryptoWallets\\CryptoWallet\\CryptoWallet.csproj",
+      "projectUniqueName": "C:\\Users\\alexander.mihov\\Documents\\GitHub\\CryptoWallet\\CryptoWallet\\CryptoWallet.csproj",
       "projectName": "CryptoWallet",
-      "projectPath": "C:\\Alex\\Softuni-Alex\\BlockchainCamp\\03.CryptoWallets\\CryptoWallet\\CryptoWallet.csproj",
+      "projectPath": "C:\\Users\\alexander.mihov\\Documents\\GitHub\\CryptoWallet\\CryptoWallet\\CryptoWallet.csproj",
       "packagesPath": "C:\\Users\\alexander.mihov\\.nuget\\packages\\",
-      "outputPath": "C:\\Alex\\Softuni-Alex\\BlockchainCamp\\03.CryptoWallets\\CryptoWallet\\obj\\",
+      "outputPath": "C:\\Users\\alexander.mihov\\Documents\\GitHub\\CryptoWallet\\CryptoWallet\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
